@@ -34,7 +34,7 @@ It covers:
 ## 📦 Installation
 1. Clone the repository:
 
-git clone https://github.com/your-username/Image-Recognition-Bootcamp.git
+git clone https://github.com/Pratik-sanap/Devtown_AI.git
 cd Image-Recognition-Bootcamp
 
 2. Create and activate a virtual environment:
